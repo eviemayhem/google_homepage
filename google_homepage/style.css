@@ -1,0 +1,44 @@
+.main{
+    position: relative;
+    text-align: center;
+    padding-top:10%;
+    padding-bottom:10%;
+}
+
+a{
+    text-decoration:none;
+    padding-right:1%;
+    color:gray;
+    
+}
+
+.headerright{
+    float:right;
+    display:block;
+}
+
+
+.searchbar{
+    border-radius: 15px;
+    height:28px;
+    width:400px;
+    margin:2%;
+}
+
+.searchButton{
+    background-color:hsla(32, 46%, 81%, 0.30);
+    border-style:none;
+    height:40px;
+    padding:4px;
+    margin-right:10px;
+}
+
+.footer{
+    background-color:hsla(32, 46%, 81%, 0.30);
+    bottom: 0;
+    font-size: 10pt;
+    height: 35px;
+    position: fixed;
+    width: 100%;
+   
+}
